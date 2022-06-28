@@ -2,7 +2,7 @@
   "name": "slides-opentelemetry",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base slides-opentelemetry",
     "dev": "slidev --open",
     "export": "slidev export"
   },
